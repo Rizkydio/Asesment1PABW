@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 no 6<?php
 if(isset($_POST['angka1']) && isset($_POST['angka2']) && isset($_POST['operasi'])){
 	$angka1 = $_POST['angka1'];
@@ -15,5 +16,4 @@ if(isset($_POST['angka1']) && isset($_POST['angka2']) && isset($_POST['operasi']
 	}
 
 	echo "Hasil operasi ".$angka1.$operasi.$angka2." adalah ".$hasil;
-}
-?>
+=======
